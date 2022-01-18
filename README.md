@@ -1,3 +1,3 @@
-#Basic-Blog Homework
+# Basic-Blog Homework
 
-A simple forum(CRUD.
+A simple forum(CRUD).
